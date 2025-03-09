@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhon Gomez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://gomezjhon1022.github.io/portafolio/](https://gomezjhon1022.github.io/portafolio/)
 
